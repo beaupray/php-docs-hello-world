@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'gray-mud-6f5b0945c6a84a58b406993730564749'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9416DF758F62448D8EEA93401F3FB05E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94CE999F7110436AA3EA6B277FE6FEE9 }}
           package: .
